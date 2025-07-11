@@ -5,4 +5,3 @@ openpyxl
 geopandas
 folium
 streamlit-folium
-streamlit_js_eval
